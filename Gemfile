@@ -31,3 +31,5 @@ end
 
 gem 'bootstrap-sass'
 gem 'devise'
+gem "chartkick"
+gem 'groupdate'
